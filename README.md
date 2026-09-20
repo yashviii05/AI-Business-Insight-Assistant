@@ -61,8 +61,4 @@ Safety check                Raw results
 - Tested with __ questions
 - Achieved __% valid SQL generation rate (run `python logger.py` to check)
 
-## Resume line (example)
 
-> Built an AI-powered natural language-to-SQL tool using the Claude API
-> and PostgreSQL, achieving __% valid query generation across __ test
-> questions, with plain-English summarization of results.
