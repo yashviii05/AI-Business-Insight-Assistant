@@ -22,7 +22,7 @@ from safety import is_query_safe
 
 load_dotenv()
 client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
-MODEL_NAME = "gemini-2.5-flash"  # fast, free-tier friendly model
+MODEL_NAME = "gemini-3.6-flash"  # fast, free-tier friendly model
 
 def _call_gemini_with_retry(prompt: str, max_retries: int = 3):
     """

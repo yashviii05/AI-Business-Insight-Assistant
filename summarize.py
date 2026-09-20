@@ -17,7 +17,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
-MODEL_NAME = "gemini-2.5-flash"
+MODEL_NAME = "gemini-3.6-flash"
 
 def _call_gemini_with_retry(prompt: str, max_retries: int = 3):
     for attempt in range(max_retries):

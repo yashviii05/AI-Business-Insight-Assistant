@@ -1,4 +1,6 @@
 # AI-Powered Business Insight Assistant
+![App Screenshot 1](screenshot1.png)
+![App Screenshot 2](screenshot2.png)
 
 Ask a business question in plain English — get back the SQL query used,
 the data, and a plain-English summary. No SQL knowledge required to use it.
