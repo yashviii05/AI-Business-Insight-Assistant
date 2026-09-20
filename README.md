@@ -1,6 +1,6 @@
 # AI-Powered Business Insight Assistant
 
-Ask a business question in plain English — get back the SQL query used,
+Ask a business question in plain English- get back the SQL query used,
 the data, and a plain-English summary. No SQL knowledge required to use it.
 
 ## How it works
